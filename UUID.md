@@ -11,7 +11,7 @@
   
 ### java.util.UUID 클래스 예제
 
-"""
+```
 
 import java.util.UUID; 
 
@@ -28,4 +28,4 @@ public class UUIDTest {
 
 }
 
-"""
+```
